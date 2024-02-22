@@ -1,0 +1,65 @@
+body{
+  font-family: sans-serif;
+}
+
+.header{
+  background-color: #CBC3E3;
+  height: 50px;
+}
+
+.main{
+  background-color: #ECDEC9;
+  height: 600px;
+}
+
+.footer{
+  background-color: #808080;
+  height: 170px;
+}
+
+.top{
+  background-color: #CCCCFF;
+  height: 500px;
+}
+
+.slogan{
+  font-family: verdana;
+  font-size: 70px;
+}
+
+a{
+  color: black;
+}
+
+.second{
+  background-color: #89CFF0;
+  height: 550px;
+}
+
+.slogan_two{
+  font-family: "lucida console";
+  font-size: 50px;
+}
+
+.thefirst{
+  font-family: "lucida console";
+}
+
+.paragraph_one{
+  font-family: "lucida console";
+  font-size: 20px;
+}
+
+.paragraph_two{
+  font-family: "lucida console";
+  font-size: 20px;
+}
+
+.button_one{
+  font-family: "lucida console";
+  font-size: 20px;
+  border-radius: 25px;
+  background: #73AD21;
+  width: 500px;
+  height: 25px;
+}
